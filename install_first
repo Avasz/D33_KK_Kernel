@@ -1,0 +1,2 @@
+    sudo apt-get install git-core gnupg flex bison gperf libsdl-dev libesd0-dev build-essential zip curl libncurses5-dev zlib1g-dev gcc-multilib g++-multilib sharutils lzop 
+
